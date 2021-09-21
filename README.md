@@ -26,4 +26,5 @@ Basic steps to implement the project:
 
         Ctrl+C
         
-## Demonstrating drawing the image within the Web App
+## Demonstration
+   ![](Demo/demo.gif)
