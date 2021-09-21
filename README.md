@@ -1,4 +1,5 @@
 <h1 align='center'>Handwritten-digit-recognition</h1>
+<h1 align='center' ><img src='Images/download.jfif' height=280 width=350></h1>
 This Project aims to recognise human handwritten digits. This model is implemented with Tensorflow and trained on MNIST dataset. I will be using a special type of deep neural network that is Convolutional Neural Networks. <br><br>
 Basic steps to implement the project:  
 
