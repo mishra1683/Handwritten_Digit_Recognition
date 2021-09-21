@@ -30,7 +30,7 @@ try:
     if image is not None:
         st.image(image,width=300,caption="Uploaded Image")
         if st.button('Predict'):
-            model=keras.models.load_model('model.h5')
+            model=keras.models.load_model('Model/model.h5')
             image = image.convert('RGB')
             image = np.array(image)
             print(image) 
