@@ -1,0 +1,6 @@
+open-python==4.5.2
+tensorflow==2.4.0
+keras==2.4.
+streamlit==0.79.0
+streamlit-drawable-canvas==0.6.0
+numpy==1.20.2
